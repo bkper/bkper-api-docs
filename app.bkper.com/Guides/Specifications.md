@@ -8,4 +8,6 @@ The API is built on [Swagger OpenAPI](https://swagger.io/resources/open-api/) an
 
 You can use the specification documents to generate client libraries using open source tools such as [OpenAPI generator](https://openapi-generator.tech/) or [Google APIs code generator](https://github.com/google/apis-client-generator), in the language of your choice.
 
-If you are using Typescript, we keep an update [type definitions package on npm](https://www.npmjs.com/package/@bkper/bkper-api-types) you can easily add to your projects for autocomplete and contextual documentation. 
+If you are using **Typescript**, we keep an updated type definitions package on npm you can easily add to your projects for autocomplete and contextual documentation:
+
+- [bkper-api-types](https://www.npmjs.com/package/@bkper/bkper-api-types)
