@@ -25,6 +25,6 @@ Browse the reference section of this site to see examples of what you can do wit
 
 You can use the **Try this API** tool on the right side of an API method page to generate a sample request.
 
-See https://bkper.com/docs for more information.
+See [bkper.com/docs](https://bkper.com/docs) for more information.
 
 
