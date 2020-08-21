@@ -1,7 +1,3 @@
-## Cloud Endpoints Portal Custom Content
+## REST API Developer portal custom docs
 
-This repository helps you get started with adding custom content to your [Cloud
-Endpoints Portal](https://cloud.google.com/endpoints/docs/dev-portal-overview).
-Please refer to the [Endpoints Portal Custom Content
-Guide](https://cloud.google.com/endpoints/docs/dev-portal-add-custom-content)
-for details on how to use the contents of this repository.
+Custom documentation to [api.bkper.com](https://api.bkper.com/)
