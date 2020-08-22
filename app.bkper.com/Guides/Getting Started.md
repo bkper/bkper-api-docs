@@ -16,7 +16,7 @@ Before you can make calls to this API, you need to enable it in the Cloud Platfo
 2. Click on **API Restrictions**, tab then select **app.bkper.com**.
 3. Copy the key to the clipboard.
 
-Your key will be used to identify your project when calling the API, as well as the [App/Bot Agent]() of the requests
+Your key will be used to identify your project when calling the API, as well as the [App/Bot](http://bkper.com/docs/#apps) agent of the requests
 
 
 ### Using the API
